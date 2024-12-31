@@ -1,4 +1,4 @@
-# Full-Stack Boilerplate - NestJS + Next.js
+# Quick Certify
 
 <p align="center">
   <a href="https://nestjs.com/" target="_blank"><img src="https://nestjs.com/img/logo-small.svg" width="60" alt="NestJS" /></a>
